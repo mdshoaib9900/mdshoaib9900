@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java , Java-Spring boot**
 
-- 💬 Ask me about **Android,Backend Development**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **mdshoaib6360@gmail.com**
 
