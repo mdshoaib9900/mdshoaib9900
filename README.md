@@ -21,11 +21,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Java & Spring Boot**
-- 🔭 I’m working on **realistic front-end clones and backend APIs**
-- 💬 Ask me about **Java, Backend Development, REST APIs**
+- 🌱 I’m currently learning **Java full stack development**
+- 🔭 I’m working on **Amazing projects which can be future products**
 - 📫 How to reach me: **mdshoaib6360@gmail.com**
-- ⚡ Fun fact: I design clones pixel-perfect like Netflix, Spotify, and more!
 
 ---
 
