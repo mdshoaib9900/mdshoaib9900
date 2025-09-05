@@ -18,19 +18,13 @@
   <a href="https://leetcode.com/mdshoaib6360" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/mdshoaidyke" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="mailto:mdshoaib6360@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,c,mysql,mongodb,redis,html,css,tailwind,git,github,firebase,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,redux,mysql,mongodb,redis,tailwind,firebase" />
 </p>
 
 ---
