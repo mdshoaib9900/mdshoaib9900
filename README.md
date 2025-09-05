@@ -151,10 +151,6 @@ Here are some of the languages, frameworks, and tools I work with:
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdshoaib9900&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdshoaib9900&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=490" alt="Shoaib's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshoaib9900&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -166,8 +162,3 @@ Here are some of the languages, frameworks, and tools I work with:
 <div align="center">
   <img src="https://ghchart.rshah.org/mdshoaib9900" alt="GitHub Contribution Chart" />
 </div>
-
-<details align="center">
-  <summary>😄 Click for a random dev joke</summary>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</details>
