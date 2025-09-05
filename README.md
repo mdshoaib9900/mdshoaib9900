@@ -50,9 +50,7 @@
 ---
 
 ### 📌 Highlight Projects
-- 🛒 **E-Commerce Store (Spring Boot + React + Redux Toolkit)** – Cart, Orders, Auth  
-- 📚 **Library Management System (Spring Boot + MySQL)** – CRUD, Billing, Auth  
-- 🧠 **Brain Tumor Detection (TensorFlow + Flask + OpenCV)** – AI-powered classifier  
+- 🛒 **Travel-Booking-App : Voyago (Node + Express + React + Redux Toolkit)**
 
 ---
 
