@@ -1,44 +1,55 @@
-<h1 align="center">👋 Mohammed Shoaib</h1>
-<h3 align="center">Software Engineer | Full-Stack Development (Java + React)</h3>
+<h1 align="center">⚙️ Mohammed Shoaib</h1>
+<h3 align="center">Software Engineer | Focused on Robust Backend Systems</h3>
 
 <p align="center">
-  <em>"Building scalable applications, solving real-world problems, and continuously enhancing technical expertise."</em>
+  <em>"Committed to building high-performance, scalable backend services and solving complex engineering challenges."</em>
 </p>
 
 ---
 
-## 💻 About Me
+## 🏗️ Core Competencies & About Me
 
-A **Software Engineer** specializing in **Full-Stack Development** with a focus on **Java** and **React**. I am passionate about creating robust, scalable solutions and am actively deepening my knowledge in **System Design**, **Cloud Technologies**, and **Advanced Data Structures and Algorithms (DSA)**.
+A dedicated **Software Engineer** specializing in **Backend Development** using **Java** and the **Spring Boot** ecosystem. My expertise lies in designing and implementing resilient, enterprise-level applications.
+
+I am currently concentrating on mastering **System Design** principles, exploring **Cloud Technologies**, and optimizing performance through advanced **Data Structures and Algorithms (DSA)**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technology Stack
+
+This section highlights the technologies critical for building modern, scalable backends.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,redux,mysql,mongodb,redis,tailwind,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,js,ts,react,redux,tailwind,firebase" />
 </p>
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Backend Core** | Java, Spring Boot, REST APIs |
+| **Databases** | MySQL, MongoDB, Redis |
+| **Frontend/Aux** | JavaScript, TypeScript, React, Redux |
+| **Concepts** | Microservices, System Design, Scalability |
 
 ---
 
-## ✨ Highlight Project
+## ✨ Engineering Highlight
 
 -  **Travel-Booking-App: Voyago**
-    > **Stack:** Node, Express, React, Redux Toolkit
-    > *A full-stack application demonstrating core development principles and state management.*
+    > **Backend Stack:** Node, Express, MongoDB
+    > *Designed and implemented core API endpoints, focusing on data validation, secure transaction handling, and service layer architecture.*
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Developer Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshoaib9900&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshoaib9900&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshoaib9900&show_icons=true&theme=dark&hide_border=true&rank_icon=github&title_color=00FFFF&icon_color=00FFFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshoaib9900&layout=compact&theme=dark&hide_border=true&title_color=00FFFF&icon_color=00FFFF" height="150" />
 </p>
 
 ---
 
-## 📧 Connect & Contact
+## 📧 Connect & Collaborate
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-shoaib-396ba5265" target="_blank">
